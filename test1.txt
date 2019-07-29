@@ -1,7 +1,2 @@
-hello this is test1.txt
-included development build
-one more line added
-second line has been added
-third line has been added
-Fourth line has been added
-fifth line has been added
+echo "new test file has been created"
+
