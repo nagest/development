@@ -1,5 +1,5 @@
 echo "new test file has been created"
-
+hello new file
 hello this is nag
 hello this is second file
 display hostname
